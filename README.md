@@ -18,7 +18,7 @@ SQL → Power Query → Data Model → DAX → Power BI → Insights & Recommend
 |------|-------------|
 | Dashboard.pdf | Final Power BI dashboard |
 | SQL_Analysis | Business KPI SQL queries |
-| Screenshots/ | Dashboard preview images |
+| Screenshots | Dashboard preview images |
 
 ## Conclusion
 Improving delivery efficiency & launching a loyalty program can increase repeat customers and protect long-term revenue.
